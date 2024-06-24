@@ -3,7 +3,7 @@ module.exports = {
     title: 'Gatsby Drupal Starter',
   },
   flags: {
-    PARALLEL_QUERY_RUNNING: true
+    PARALLEL_QUERY_RUNNING: false
   },
   pathPrefix: `/gatsby-drupal-starter`,
   plugins: [
